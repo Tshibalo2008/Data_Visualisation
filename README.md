@@ -25,5 +25,6 @@ helping retailers understand what drives customer choices and optimize marketing
 
 # Tools & Technologies:
 Google Looker Studio (Dashboard & Data Visualisation)
+
 Excel (Data Preparation)
 
